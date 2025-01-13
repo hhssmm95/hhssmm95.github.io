@@ -6,9 +6,6 @@ tags: [C++]
 math: true
 toc: true
 pin: true
-image:
-  path:
-  alt:
 ---
 
 비트연산자
